@@ -1,5 +1,5 @@
 # Repositório Teste
 
-![/imgGit.png]
+![/imgGit.png](Imagem Git)
 
 Repositório de teste criado para aprendizado do Git/Github
